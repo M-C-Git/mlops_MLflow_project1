@@ -12,8 +12,8 @@ It uses a regression task (predicting iris class) as an example, and shows how t
 Structure
 =========
 * It provides two versons of project codes:
-1) project_code_short.ipynb: the short version project notebook with model training and MLflow integration. It contains the basic functions for this porject.
-2) project_code_long.ipynb: the long version project notebook with model training and MLflow integration. It tries to create a reusable template for mlflow implementation based this porject. The additional functions include confusion matrix, SHAP analysis, and classification report.
+  1) project_code_short.ipynb: the short version project notebook with model training and MLflow integration. It contains the basic functions for this porject.
+  2) project_code_long.ipynb: the long version project notebook with model training and MLflow integration. It tries to create a reusable template for mlflow implementation based this porject. The additional functions include confusion matrix, SHAP analysis, and classification report.
 * mlruns/: auto-generated directory storing experiment metadata
 * mlartifacts/: stores saved model files and other outputs (for MLflow ≥ 2.x)
 * requirements.txt: Dependencies that needs to be installed
