@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/668754016532033125/8de5a3cf2c424566b177cdf118678a66/artifacts
+end_time: 1749626379916
+entry_point_name: ''
+experiment_id: '668754016532033125'
+lifecycle_stage: active
+run_id: 8de5a3cf2c424566b177cdf118678a66
+run_name: loud-auk-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749626378883
+status: 3
+tags: []
+user_id: mchen

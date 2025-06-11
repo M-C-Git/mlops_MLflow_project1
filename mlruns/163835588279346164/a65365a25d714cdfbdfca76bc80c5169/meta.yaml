@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/163835588279346164/a65365a25d714cdfbdfca76bc80c5169/artifacts
+end_time: 1749626517022
+entry_point_name: ''
+experiment_id: '163835588279346164'
+lifecycle_stage: active
+run_id: a65365a25d714cdfbdfca76bc80c5169
+run_name: defiant-bear-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749626516147
+status: 3
+tags: []
+user_id: mchen

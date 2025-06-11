@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/668754016532033125/cdc800620a09438c875d08066d273bf3/artifacts
+end_time: 1749626378831
+entry_point_name: ''
+experiment_id: '668754016532033125'
+lifecycle_stage: active
+run_id: cdc800620a09438c875d08066d273bf3
+run_name: popular-skink-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749626377455
+status: 3
+tags: []
+user_id: mchen

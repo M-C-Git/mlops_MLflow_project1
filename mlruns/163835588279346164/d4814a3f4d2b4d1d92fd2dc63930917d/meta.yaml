@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/163835588279346164/d4814a3f4d2b4d1d92fd2dc63930917d/artifacts
+end_time: 1749626516025
+entry_point_name: ''
+experiment_id: '163835588279346164'
+lifecycle_stage: active
+run_id: d4814a3f4d2b4d1d92fd2dc63930917d
+run_name: luxuriant-fly-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749626515109
+status: 3
+tags: []
+user_id: mchen

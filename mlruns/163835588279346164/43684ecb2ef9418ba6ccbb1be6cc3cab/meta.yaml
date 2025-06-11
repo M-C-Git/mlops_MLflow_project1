@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/163835588279346164/43684ecb2ef9418ba6ccbb1be6cc3cab/artifacts
+end_time: 1749626515100
+entry_point_name: ''
+experiment_id: '163835588279346164'
+lifecycle_stage: active
+run_id: 43684ecb2ef9418ba6ccbb1be6cc3cab
+run_name: monumental-squid-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749626513985
+status: 3
+tags: []
+user_id: mchen
